@@ -1,2 +1,4 @@
 # climatetests
-Testing AI generatet climate models
+
+Attempt to generate simple energy-based terrestrial planet climate models
+on tetsing phase
